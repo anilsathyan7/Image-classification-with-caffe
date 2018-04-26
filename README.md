@@ -16,12 +16,17 @@ PC with Ubuntu 16.04 and NVIDIA GPU (optional).
 ### Installing
 
 See:-
+
 https://github.com/BVLC/caffe/wiki/Ubuntu-16.04-or-15.10-Installation-Guide
+
 http://caffe.berkeleyvision.org/installation.html
+
 https://github.com/NVIDIA/DIGITS
 
 Additionally install the following libraries from terminal
+
 Easygui : pip install --upgrade easygui
+
 SimpleCV : https://github.com/sightmachine/SimpleCV
 
 Also install Numpy and Pyttsx
@@ -32,6 +37,8 @@ If you are using NVIDIA GPU, ensure proper CUDA drivers are installed.
 
 First, make sure the caffe and related libraries are installed properly.Also, make sure your webcam is working properly.
 Keep some images for testing purpose.
+
+Replce the file path as required for the inputs.
 
 In terminal:-
 
