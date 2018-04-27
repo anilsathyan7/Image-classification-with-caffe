@@ -36,7 +36,7 @@ If you are using NVIDIA GPU, ensure proper CUDA drivers are installed.
 ### Running the tests
 
 First, make sure the caffe and related libraries are installed properly.Also, make sure your webcam is working properly.
-Keep some images for testing purpose.
+Keep some images for testing purpose.See the 'labels.txt' file for getting an idea about image classes and labels.
 
 Replce the file path as required for the inputs.
 
@@ -46,7 +46,7 @@ Firstly,make  sure caffe path is properly set and execute the following commands
 
 python fin_imclassify.py
 
-NB: Python v2.7 
+NB: Python v2.7, Pyttsx gives background speech prompts (i.e. Audio... Just 4 Fun !!!)
 
 Now follow the prompts and test the system with any suitable images.
 In the case of webcam just click on the webcam window to capture the image.
