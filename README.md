@@ -51,6 +51,24 @@ NB: Python v2.7, Pyttsx gives background speech prompts (i.e. Audio... Just 4 Fu
 Now follow the prompts and test the system with any suitable images.
 In the case of webcam just click on the webcam window to capture the image.
 
+## Screenshots
+
+### Choose Network
+![alt text](https://sevenshinestudios.files.wordpress.com/2018/04/1choosenetwork.png)
+
+### Classify Image
+
+Select | Result
+------------ | -------------
+![alt text](https://i1.wp.com/sevenshinestudios.files.wordpress.com/2018/04/2selectimage.png?ssl=1&w=450) | ![alt text](https://i0.wp.com/sevenshinestudios.files.wordpress.com/2018/04/3fileexplore.png?ssl=1&w=450)
+![alt text](https://i2.wp.com/sevenshinestudios.files.wordpress.com/2018/04/4imageconfirm.png?ssl=1&w=450) | ![alt text](https://i0.wp.com/sevenshinestudios.files.wordpress.com/2018/04/5result.png?ssl=1&w=450)
+
+ ### Webcam
+<p align="center">
+  <img  src="https://i0.wp.com/sevenshinestudios.files.wordpress.com/2018/04/6camwindow.png?ssl=1&w=450">
+</p>
+
+
 ## Versioning
 
 Version 1.0
@@ -60,7 +78,7 @@ Version 1.0
 Anil Sathyan
 ## License
 
-Free to use, share or modify!! ... Copyleft!!
+Free to use, share or modify!! ... Copyleft!! :sparkles: :boom:
 
 ## Acknowledgments
 * "http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html"
